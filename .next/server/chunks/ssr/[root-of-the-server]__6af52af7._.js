@@ -1791,7 +1791,7 @@ function ErrorReporter({ error, reset }) {
                                 "data-orchids-id": "src\\components\\ErrorReporter.tsx:106:12",
                                 "data-orchids-name": "p",
                                 className: "text-muted-foreground",
-                                children: "An unexpected error occurred. Please try again fixing with Orchids"
+                                children: "An unexpected error occurred. Please try again fixing"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/ErrorReporter.tsx",
                                 lineNumber: 106,
